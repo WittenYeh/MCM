@@ -11,3 +11,4 @@
 - [《数学建模算法与应用》司守奎](https://github.com/CentrifugalAI/Mathematical-Contest-in-Modeling/raw/main/coding/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20(%E5%8F%B8%E5%AE%88%E5%A5%8E%20%E5%AD%99%E5%85%86%E4%BA%AE).pdf)
 
 ## 作为补充的算法收集
+
