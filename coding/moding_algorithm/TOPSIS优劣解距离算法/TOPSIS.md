@@ -203,7 +203,7 @@ $$
 
 可以用下面的图表示
 
-<center><img src = https://pic4.zhimg.com/80/v2-0162d20949c59d1153d80f50f78fb6fd.png width = 55%></center>
+<center><img src = /images/1.png width = 55%></center>
 
 使用和层次分析法一样的归一化方法，即可得到最终得分，进而得到最终排名
 
